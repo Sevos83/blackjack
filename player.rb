@@ -3,7 +3,7 @@
 require_relative './hand'
 
 class Player
-  START_CASH = 10
+  START_CASH = 100
 
   attr_reader :name
   attr_accessor :cash, :hand
