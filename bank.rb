@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class Bank
-  BET = 100
+  BET = 10
 
   attr_reader :bank
 
